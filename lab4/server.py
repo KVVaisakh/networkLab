@@ -1,3 +1,6 @@
+#to run type localhost:1244/{filename}
+#file to be received/displayed should be there in desktop
+
 import socket             
 
 s = socket.socket()
